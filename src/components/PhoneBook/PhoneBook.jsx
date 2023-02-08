@@ -60,7 +60,7 @@ class PhoneBook extends Component {
   }
 
   render() {
-    const { contacts, filter } = this.state;
+    const { filter } = this.state;
     console.log(this.state);
     return (
       <div className={css.wrapper}>

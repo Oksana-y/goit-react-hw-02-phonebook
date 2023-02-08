@@ -1,4 +1,3 @@
-import { ReactPropTypes } from 'react';
 import { Component } from 'react';
 import { nanoid } from 'nanoid';
 import css from './contact-form.module.scss';
